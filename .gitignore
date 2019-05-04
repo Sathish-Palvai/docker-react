@@ -1,5 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
+# Personal Access Token - 0af82a263890b590351999fde3f3079c0ee3a7d4
 # dependencies
 /node_modules
 /.pnp
