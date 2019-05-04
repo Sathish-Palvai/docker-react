@@ -4,4 +4,4 @@ services:
 before_install:
   - docker build -t psathishkreddy/docker-react -f Dockerfile.dev .
 script:
-  - docker run psathishkreddy/docker-react npm run test -- --coverage
+  - docker run psathishkreddy/docker-react npm run test --coverage --
